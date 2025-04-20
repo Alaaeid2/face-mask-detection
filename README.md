@@ -14,9 +14,9 @@ A Python‑based application that uses OpenCV, a pre‑trained SSD face detector
 ---
 
 ## 📂 Project Structure
-face-mask-detection/
-├── deploy.prototxt
-├──res10_300x300_ssd_iter_140000.caffemodel
-├──mask_detector.model
-├──detect_mask_video.py
-├── README.md
+face-mask-detection/  
+├── deploy.prototxt  
+├──res10_300x300_ssd_iter_140000.caffemodel  
+├──mask_detector.model  
+├──detect_mask_video.py  
+├── README.md  
